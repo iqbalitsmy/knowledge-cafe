@@ -1,0 +1,38 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "How to get your first job as a self-taught programmer",
+        "profile": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg",
+        "img": "https://images.unsplash.com/photo-1560415755-bd80d06eda60",
+        "publish": "Mar 14 (4 Days ago)",
+        "minRead": 5,
+        "authName": "Mr. Raju"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ea2",
+        "name": "How to get your first job as a self-taught programmer",
+        "profile": "https://img.freepik.com/premium-vector/young-man-avatar-character_24877-9475.jpg",
+        "img": "https://images.unsplash.com/photo-1618335829737-2228915674e0",
+        "publish": "Mar 02 (4 Days ago)",
+        "minRead": 10,
+        "authName": "Mrs. Setara"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ea3",
+        "name": "How to get your first job as a self-taught programmer",
+        "profile": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+        "img": "https://plus.unsplash.com/premium_photo-1683140655656-20448abc55da",
+        "publish": "Mar 03 (4 Days ago)",
+        "minRead": 12,
+        "authName": "Mina Mostofa"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ea4",
+        "name": "How to get your first job as a self-taught programmer",
+        "profile": "https://img.freepik.com/premium-vector/businessman-avatar-cartoon-character-profile_18591-50585.jpg",
+        "img": "https://images.unsplash.com/photo-1510751007277-36932aac9ebd",
+        "publish": "Mar 04 (4 Days ago)",
+        "minRead": 15,
+        "authName": "Mr. Siraj"
+    }
+]

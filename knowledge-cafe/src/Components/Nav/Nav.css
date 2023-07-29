@@ -1,0 +1,15 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    border-bottom: 0.01em solid rgba(17, 17, 17, 0.15);
+    margin-bottom: 32px;
+    padding-bottom: 32px;
+}
+
+.navigation img {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+}
